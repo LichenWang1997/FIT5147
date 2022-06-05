@@ -1,4 +1,4 @@
-Year,AverageNumber,IncreasedNumber
-2015-19,143017,0
-2020,143017,1104
-2021,143017,6181
+Year,AverageNumber,IncreasedNumber,Percent
+2015-19,143017,0,0
+2020,143017,1104,0.77
+2021,143017,6181,4.32
